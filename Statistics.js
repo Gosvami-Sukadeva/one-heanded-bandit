@@ -18,7 +18,7 @@ class Statistics {
             bid
         }
         console.log(gameResult);
-        this.gameResult.push(gameResult)
+        this.gameResults.push(gameResult)
     }
 
     showGameStatistics() {
